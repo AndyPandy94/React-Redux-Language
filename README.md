@@ -1,2 +1,3 @@
-# react-redux
-Created with CodeSandbox
+# React-Redux
+
+Learning React and Redux for personal knowledge
